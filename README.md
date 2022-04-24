@@ -12,7 +12,7 @@ Modifications will bring the total length of Florence up 7'9", to 26'3", with a 
 
 Extending the galley gives us enough room for a modular dinette layout: 
 
-TODO
+![Modular Dinette](https://raw.githubusercontent.com/openfinch/narrowboat-florence/main/ModularDinette.png)
 
 ----
 
