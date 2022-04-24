@@ -12,4 +12,4 @@ Modifications will bring the total length of Florence up 7'9", to 26'3", with a 
 
 ----
 
-#### Note: For obvious reasons, I cannot provide the plans in totality, however you can purchase a copy from [WoodenBoatStore.com](https://www.woodenboatstore.com/collections/canal-boat-plans/products/phil-thiels-escargot-digital). See [Plan Modifications](#Plan Modifications) for details on how Florence differs from Escargot.
+#### Note: For obvious reasons, I cannot provide the plans in totality, however you can purchase a copy from [WoodenBoatStore.com](https://www.woodenboatstore.com/collections/canal-boat-plans/products/phil-thiels-escargot-digital). See [Plan Modifications](https://github.com/openfinch/narrowboat-florence/blob/main/README.md#plan-modifications) for details on how Florence differs from Escargot.
