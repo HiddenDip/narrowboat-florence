@@ -8,7 +8,7 @@ A repository for files, diagrams and notes for the narrowboat Florence.
  - Cabin between F3 (now F3a) and F4 to be extended by one frame (F3b), using F3 as a template. Gaps between frames to equal distance between F3 and F4 in plans (3'3").
  - Cabin between F4 (now F4a) and F5 to be extended by one frame (F4b), using F3 as a template. Gaps between frames to equal distance between F3 and F4 in plans (3'3").
 
-Modifications will bring the total length of Florence up 7'9", to 26'3", with a .
+Modifications will bring the total length of Florence up by 7'9".
 
 Extending the galley gives us enough room for a modular dinette layout: 
 
